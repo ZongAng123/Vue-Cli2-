@@ -28,4 +28,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 微信技术群，欢迎大佬加入
-![Image text](https://github.com/ZongAng123/MySwiftApp/blob/main/WechatIMG17.jpeg)
+![Image text](https://github.com/ZongAng123/Vue-Cli2-/blob/main/jihsuqun.png)
